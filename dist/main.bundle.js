@@ -1,0 +1,1 @@
+(()=>{"use strict";qqcoisa="Não",console.log(qqcoisa)})();
